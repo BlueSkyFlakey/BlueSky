@@ -24,5 +24,5 @@
 1. Add the sql to the database
 2. Add the resource
 3. Put start garage in server.cfg
-i love dick
+sorry for saying that mama 
 
