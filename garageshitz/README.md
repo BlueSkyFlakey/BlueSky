@@ -25,6 +25,3 @@
 2. Add the resource
 3. Put start garage in server.cfg
 sorry for saying that mama 
-
-your mom
-
